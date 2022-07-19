@@ -2,10 +2,6 @@ const nameInput = document.getElementById("nameInput");
 const button = document.getElementById("enter");
 const buttonClick = button.addEventListener("click", nameCat);
 
-
-
-
-
 class Cats 
 {
   constructor(breed, age)
